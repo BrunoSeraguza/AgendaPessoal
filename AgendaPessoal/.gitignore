@@ -1,0 +1,20 @@
+﻿## Arquivos temporários do Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+
+## Arquivos de build
+Debug/
+Release/
+
+## Arquivos do .NET
+*.cache
+*.pdb
+*.dll
+*.exe
+
+## Arquivos do usuário
+*.userosscache
+*.sln.docstates

@@ -1,8 +1,15 @@
+using AgendaPessoal.Data;
+using AgendaPessoal.Repository;
+using AgendaPessoal.Service;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
-
+builder.Services.AddDbContext<AppDbContext>(options => options.UseSqlServer("SUA_CONNECTION_STRING"));
+builder.Services.AddScoped<IPersonRepository, PersonRepository>();
+builder.Services.AddScoped<PersonService>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

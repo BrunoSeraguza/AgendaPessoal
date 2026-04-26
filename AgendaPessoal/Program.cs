@@ -30,7 +30,6 @@ app.UseRouting();
 
 app.UseAuthorization();
 
-// Rota padrão MVC
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Person}/{action=Index}/{id?}");

@@ -1,0 +1,68 @@
+﻿<script src="https://cdn.jsdelivr.net/npm/knockout@3.5.1/build/output/knockout-latest.js"></script>
+<div>
+    <h2>Cadastro de Pessoa</h2>
+
+    <input type="text" placeholder="Nome" data-bind="value: name" />
+    <input type="email" placeholder="Email" data-bind="value: email" />
+    <input type="date" data-bind="value: birthDate" />
+
+    <button data-bind="click: save">Salvar</button>
+</div>
+
+<hr />
+
+<h2>Lista</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th>Nome</th>
+            <th>Email</th>
+            <th>Data Nascimento</th>
+        </tr>
+    </thead>
+    <tbody data-bind="foreach: people">
+        <tr>
+            <td data-bind="text: name"></td>
+            <td data-bind="text: email"></td>
+            <td data-bind="text: birthDate"></td>
+        </tr>
+    </tbody>
+</table>
+
+<script>
+    function PersonViewModel() {
+        var self = this;
+
+        self.name = ko.observable("");
+        self.email = ko.observable("");
+        self.birthDate = ko.observable("");
+
+        self.people = ko.observableArray([]);
+
+        self.save = function () {
+            var person = {
+                name: self.name(),
+                email: self.email(),
+                birthDate: self.birthDate()
+            };
+
+            fetch('/Person/Create', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify(person)
+            })
+            .then(() => self.load());
+        };
+
+        self.load = function () {
+            fetch('/Person/GetAll')
+                .then(res => res.json())
+                .then(data => self.people(data));
+        };
+    }
+
+       var vm = new PersonViewModel();
+    ko.applyBindings(vm);
+    vm.load(); // 👈 FALTAVA ISSO
+</script>

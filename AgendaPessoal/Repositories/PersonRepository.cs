@@ -2,7 +2,7 @@
 using AgendaPessoal.Domain;
 using Microsoft.EntityFrameworkCore;
 
-namespace AgendaPessoal.Repository;
+namespace AgendaPessoal.Repositories;
 
 public class PersonRepository : IPersonRepository
 {

@@ -1,7 +1,7 @@
 ﻿using AgendaPessoal.Domain;
-using AgendaPessoal.Repository;
+using AgendaPessoal.Repositories;
 
-namespace AgendaPessoal.Service;
+namespace AgendaPessoal.Services;
 
 public class PersonService
 {
@@ -26,6 +26,11 @@ public class PersonService
         await _repository.Add(person);
     }
 
+    public async Task<List<Person>> GetAll()
+    {
+        return await _repository.GetAll();
+    }
+
     private int CalculateAge(DateTime birthDate)
     {
         var today = DateTime.Today;
@@ -35,5 +40,21 @@ public class PersonService
             age--;
 
         return age;
+    }
+
+    public async Task Delete(int id)
+    {
+        await _repository.Delete(id);
+    }
+
+    public async Task Update(Person person)
+    {
+        if (string.IsNullOrEmpty(person.Email))
+            throw new Exception("Email é obrigatório");
+
+        if (CalculateAge(person.BirthDate) < 18)
+            throw new Exception("Pessoa deve ter pelo menos 18 anos");
+
+        await _repository.Update(person);
     }
 }

@@ -1,6 +1,6 @@
 ﻿using AgendaPessoal.Domain;
 
-namespace AgendaPessoal.Repository
+namespace AgendaPessoal.Repositories
 {
     public interface IPersonRepository
     {

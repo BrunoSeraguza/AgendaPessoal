@@ -52,4 +52,18 @@ public class PersonController : Controller
         }
     }
 
+    [HttpPut]
+    public async Task<IActionResult> Update([FromBody] Person person)
+    {
+        try
+        {
+            await _service.Update(person);
+            return Ok();
+        }
+        catch (Exception ex)
+        {
+            return BadRequest(ex.Message);
+        }
+    }
+
 }

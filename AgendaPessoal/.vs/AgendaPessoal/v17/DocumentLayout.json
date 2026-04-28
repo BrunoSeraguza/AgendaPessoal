@@ -3,44 +3,32 @@
   "WorkspaceRootPath": "C:\\Projetos\\AgendaPessoal\\AgendaPessoal\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DF5EF58F-DE2F-41F5-A4E8-1E41938107B4}|AgendaPessoal.csproj|c:\\projetos\\agendapessoal\\agendapessoal\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{DF5EF58F-DE2F-41F5-A4E8-1E41938107B4}|AgendaPessoal.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF5EF58F-DE2F-41F5-A4E8-1E41938107B4}|AgendaPessoal.csproj|c:\\projetos\\agendapessoal\\agendapessoal\\domain\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF5EF58F-DE2F-41F5-A4E8-1E41938107B4}|AgendaPessoal.csproj|solutionrelative:domain\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DF5EF58F-DE2F-41F5-A4E8-1E41938107B4}|AgendaPessoal.csproj|c:\\projetos\\agendapessoal\\agendapessoal\\views\\person\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DF5EF58F-DE2F-41F5-A4E8-1E41938107B4}|AgendaPessoal.csproj|solutionrelative:views\\person\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF5EF58F-DE2F-41F5-A4E8-1E41938107B4}|AgendaPessoal.csproj|c:\\projetos\\agendapessoal\\agendapessoal\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF5EF58F-DE2F-41F5-A4E8-1E41938107B4}|AgendaPessoal.csproj|solutionrelative:controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF5EF58F-DE2F-41F5-A4E8-1E41938107B4}|AgendaPessoal.csproj|c:\\projetos\\agendapessoal\\agendapessoal\\repositories\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF5EF58F-DE2F-41F5-A4E8-1E41938107B4}|AgendaPessoal.csproj|solutionrelative:repositories\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DF5EF58F-DE2F-41F5-A4E8-1E41938107B4}|AgendaPessoal.csproj|c:\\projetos\\agendapessoal\\agendapessoal\\services\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF5EF58F-DE2F-41F5-A4E8-1E41938107B4}|AgendaPessoal.csproj|solutionrelative:services\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{DF5EF58F-DE2F-41F5-A4E8-1E41938107B4}|AgendaPessoal.csproj|c:\\projetos\\agendapessoal\\agendapessoal\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF5EF58F-DE2F-41F5-A4E8-1E41938107B4}|AgendaPessoal.csproj|solutionrelative:controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DF5EF58F-DE2F-41F5-A4E8-1E41938107B4}|AgendaPessoal.csproj|c:\\projetos\\agendapessoal\\agendapessoal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF5EF58F-DE2F-41F5-A4E8-1E41938107B4}|AgendaPessoal.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF5EF58F-DE2F-41F5-A4E8-1E41938107B4}|AgendaPessoal.csproj|c:\\projetos\\agendapessoal\\agendapessoal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{DF5EF58F-DE2F-41F5-A4E8-1E41938107B4}|AgendaPessoal.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DF5EF58F-DE2F-41F5-A4E8-1E41938107B4}|AgendaPessoal.csproj|c:\\projetos\\agendapessoal\\agendapessoal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF5EF58F-DE2F-41F5-A4E8-1E41938107B4}|AgendaPessoal.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF5EF58F-DE2F-41F5-A4E8-1E41938107B4}|AgendaPessoal.csproj|c:\\projetos\\agendapessoal\\agendapessoal\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF5EF58F-DE2F-41F5-A4E8-1E41938107B4}|AgendaPessoal.csproj|solutionrelative:migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF5EF58F-DE2F-41F5-A4E8-1E41938107B4}|AgendaPessoal.csproj|c:\\projetos\\agendapessoal\\agendapessoal\\repositories\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF5EF58F-DE2F-41F5-A4E8-1E41938107B4}|AgendaPessoal.csproj|solutionrelative:repositories\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF5EF58F-DE2F-41F5-A4E8-1E41938107B4}|AgendaPessoal.csproj|c:\\projetos\\agendapessoal\\agendapessoal\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{DF5EF58F-DE2F-41F5-A4E8-1E41938107B4}|AgendaPessoal.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 20,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -106,39 +94,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Projetos\\AgendaPessoal\\AgendaPessoal\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Projetos\\AgendaPessoal\\AgendaPessoal\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-28T21:23:30.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Projetos\\AgendaPessoal\\AgendaPessoal\\Domain\\Person.cs",
+              "RelativeDocumentMoniker": "Domain\\Person.cs",
+              "ToolTip": "C:\\Projetos\\AgendaPessoal\\AgendaPessoal\\Domain\\Person.cs",
+              "RelativeToolTip": "Domain\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T21:20:11.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projetos\\AgendaPessoal\\AgendaPessoal\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Projetos\\AgendaPessoal\\AgendaPessoal\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T23:56:11.048Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Projetos\\AgendaPessoal\\AgendaPessoal\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Projetos\\AgendaPessoal\\AgendaPessoal\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-27T23:56:06.009Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AppDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Projetos\\AgendaPessoal\\AgendaPessoal\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "Migrations\\AppDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Projetos\\AgendaPessoal\\AgendaPessoal\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeToolTip": "Migrations\\AppDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA8wCkAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T23:54:59.712Z"
+              "WhenOpened": "2026-04-27T23:56:11.048Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -150,68 +141,34 @@
               "RelativeToolTip": "Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T21:40:41.481Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IPersonRepository.cs",
-              "DocumentMoniker": "C:\\Projetos\\AgendaPessoal\\AgendaPessoal\\Repositories\\IPersonRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\IPersonRepository.cs",
-              "ToolTip": "C:\\Projetos\\AgendaPessoal\\AgendaPessoal\\Repositories\\IPersonRepository.cs",
-              "RelativeToolTip": "Repositories\\IPersonRepository.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAArwAsAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T21:40:37.977Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "site.js",
-              "DocumentMoniker": "C:\\Projetos\\AgendaPessoal\\AgendaPessoal\\wwwroot\\js\\site.js",
-              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Projetos\\AgendaPessoal\\AgendaPessoal\\wwwroot\\js\\site.js",
-              "RelativeToolTip": "wwwroot\\js\\site.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-04-27T21:36:04.556Z"
+              "WhenOpened": "2026-04-27T21:40:41.481Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PersonRepository.cs",
-              "DocumentMoniker": "C:\\Projetos\\AgendaPessoal\\AgendaPessoal\\Repositories\\PersonRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\PersonRepository.cs",
-              "ToolTip": "C:\\Projetos\\AgendaPessoal\\AgendaPessoal\\Repositories\\PersonRepository.cs",
-              "RelativeToolTip": "Repositories\\PersonRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T20:42:29.18Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Projetos\\AgendaPessoal\\AgendaPessoal\\Views\\Person\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Person\\Index.cshtml",
               "ToolTip": "C:\\Projetos\\AgendaPessoal\\AgendaPessoal\\Views\\Person\\Index.cshtml",
               "RelativeToolTip": "Views\\Person\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABcAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAABsAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-04-26T14:58:41.871Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "PersonController.cs",
               "DocumentMoniker": "C:\\Projetos\\AgendaPessoal\\AgendaPessoal\\Controllers\\PersonController.cs",
               "RelativeDocumentMoniker": "Controllers\\PersonController.cs",
               "ToolTip": "C:\\Projetos\\AgendaPessoal\\AgendaPessoal\\Controllers\\PersonController.cs",
               "RelativeToolTip": "Controllers\\PersonController.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAwwD8AAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwCAAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-25T19:37:41.64Z"
+              "WhenOpened": "2026-04-25T19:37:41.64Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -221,9 +178,10 @@
               "RelativeDocumentMoniker": "Services\\PersonService.cs",
               "ToolTip": "C:\\Projetos\\AgendaPessoal\\AgendaPessoal\\Services\\PersonService.cs",
               "RelativeToolTip": "Services\\PersonService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-25T19:36:20.042Z"
+              "WhenOpened": "2026-04-25T19:36:20.042Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -40,13 +40,14 @@ public class PersonController : Controller
     }
 
     [HttpDelete]
-    public async Task<IActionResult> Delete (int id)
+    public async Task<IActionResult> Delete(int id)
     {
         try
         {
             await _service.Delete(id);
             return Ok();
-        }catch(Exception ex)
+        }
+        catch (Exception ex)
         {
             return BadRequest($"Mensagem: {ex.Message} | Stack trace: {ex.StackTrace}");
         }

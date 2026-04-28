@@ -11,13 +11,12 @@
 ##  Design Patterns utilizados
 
 **Repository Pattern**  
-Responsável por isolar o acesso ao banco de dados, desacoplando a camada de persistência das regras de negócio.
+Responsável por isolar o acesso ao banco optei por repository para desacopla o banco da regra de negócio
 
 **Service Layer Pattern**  
-Camada responsável por centralizar regras e validações da aplicação, evitando sobrecarga nos controllers.
+Onde ficam as regras e validações do projeto, utilizei parar centralizar regras de negócio fora do controller e por já estar familiarizado com esse pattern
 
-**Dependency Injection**  
-Utilizada para gerenciamento de dependências, evitando instanciamento manual e promovendo baixo acoplamento.
+**Utilizado Dependency Injection para não instanciar nada manualmente**
 
 ---
 
@@ -59,6 +58,12 @@ dotnet ef database update
 
 **Decisões adotadas** 
 
-Utilização de EF Core  para facilitar evolução do banco
-Separação em camadas (Controller, Service, Repository) para manter organização e escalabilidade
-uso de Knockout.js para aplicar padrão MVVM no front, validações implementadas no Service para centralizar regras de negócio, Uso de Dependency Injection nativa do ASP.NET Core.
+Utilização de EF Core  para facilitar evolução do banco.
+
+Separação em camadas (Controller, Service, Repository) para manter organização e escalabilidade.
+
+Uso de Knockout.js para aplicar padrão MVVM no front
+
+Validações implementadas no Service para centralizar regras de negócio
+
+Uso de Dependency Injection nativa do ASP.NET Core.

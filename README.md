@@ -69,3 +69,10 @@ Uso de Knockout.js para aplicar padrão MVVM no front
 Validações implementadas no Service para centralizar regras de negócio
 
 Uso de Dependency Injection nativa do ASP.NET Core.
+
+---
+***TODO
+Adicionar validação visual no front
+Criar testes unitários para o Service
+Implementar logging
+Melhorar UX (toast ao invés de alert)***

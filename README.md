@@ -56,6 +56,8 @@ dotnet ef migrations add AddPhone
 
 dotnet ef database update
 
+---
+
 **Decisões adotadas** 
 
 Utilização de EF Core  para facilitar evolução do banco.

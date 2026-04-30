@@ -76,3 +76,4 @@ Adicionar validação visual no front
 Criar testes unitários para o Service
 Implementar logging
 Melhorar UX (toast ao invés de alert)***
+Criar Exception proj e communication e  organizar DDD
